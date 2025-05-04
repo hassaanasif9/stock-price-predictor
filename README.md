@@ -56,5 +56,5 @@ To build a user-friendly financial ML app that performs a complete ML workflow i
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/stock-price-predictor.git
+git clone https://github.com/hassaanasif9/stock-price-predictor.git
 cd stock-price-predictor
